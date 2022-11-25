@@ -39,5 +39,5 @@ Para isso, use os conhecimentos obtidos neste módulo (e anteriores) para respon
 
 
 
-**[Projeto- Técnica de Programação I]()**
+**[Projeto- Técnica de Programação I](https://github.com/ElizangelaStudent/Projeto-T-cnicas-de-Programa-o-I-PY-/blob/b5be47129b376de5f679f7273ffa7c37dd3603ad/Projeto_T%C3%A9cnicas_de_Programa%C3%A7%C3%A3o_I.ipynb)**
  
